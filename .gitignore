@@ -1,2 +1,5 @@
 # Ignoring the .class file
 *.class
+
+# for some test cases
+*test.java
