@@ -1,4 +1,4 @@
-public class aximumPopulationYear {
+public class MaximumPopulationYear {
     public static void main(String[] Args){
         int[][] logs = {{1950,1961},{1960,1971},{1970,1981}};
         int output = maximumPopulation(logs);
